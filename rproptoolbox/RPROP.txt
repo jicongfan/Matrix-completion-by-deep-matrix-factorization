@@ -1,0 +1,9 @@
+
+References:
+[1] Igel, C. and Hüsken, M., Improving the Rprop learning algorithm, 2000
+[2] Igel, C. and Hüsken, M., Empirical evaluation of the improved Rprop learning algorithms, 2003
+[3] Riedmiller, M., Rprop-description and implementation details, 1994
+[4] Riedmiller, M., Advanced supervised learning in multi-layer perceptrons-from backpropagation to adaptive learning algorithms, 1994
+
+
+
